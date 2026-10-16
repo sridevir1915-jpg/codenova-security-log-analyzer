@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.vscode/
+test_auth.log
+test_report.md
